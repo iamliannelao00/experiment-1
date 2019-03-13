@@ -39,7 +39,8 @@ cin >> NumberOfTicketSold4 ;
 cout << "Ticket Price		Number Of Ticket Sold		Total Sale Amount" << endl;
 cout << setprecision(2) << Ticketprice1		<< " " << NumberOfTicketSold1 << " "	<< Ticketprice1 * NumberOfTicketSold1 << endl;
 cout << Ticketprice2 << NumberOfTicketSold2 << Ticketprice2 * NumberOfTicketSold2 << endl;
-
+cout << Ticketprice3 << NumberOfTicketSold3 << Ticketprice3 * NumberOfTicketSold3 << endl;
+cout << Ticketprice4 << NumberOfTicketSold4 << Ticketprice4 * NumberOfTicketSold4 << endl;
 _getch();
 return 0;
 }
